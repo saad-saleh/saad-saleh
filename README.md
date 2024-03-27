@@ -7,7 +7,6 @@ I'm a seasoned Technology Strategist with a passion for leveraging technology to
 #### 🌟 About Me
 
 - 🚀 I excel in leading projects at the intersection of technology and impact, like pioneering AI initiatives for early detection of Diabetic Retinopathy with Balsamee LTD for MCIT Egypt.
-- 🌱 Currently, I’m exploring the future of business governance, arbitration, and attorney services through consultancy for Omana’a in Saudi Arabia and driving technology strategy for Qparts.
 - 💼 As CTO at DentaCarts Holding LTD., I spearhead efforts to enhance key business metrics, adopting and implementing cutting-edge technologies.
 - 📚 My academic foundation is a Bachelor of Engineering from Ain Shams University, specializing in Computer and Systems.
 
