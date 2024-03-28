@@ -38,6 +38,6 @@ I'm a seasoned Technology Strategist with a passion for leveraging technology to
 - [LinkedIn](https://www.linkedin.com/in/saad-saleh/)
 - [Medium](https://saad-saleh.medium.com)
 - [Email](mailto:saadsaleh88@gmail.com)
-- [GitHub]([#](https://github.com/saad-saleh))
+- [GitHub](https://github.com/saad-saleh)
 
 Feel free to explore my repositories and don't hesitate to reach out if you have any questions or collaboration ideas!
