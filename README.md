@@ -35,7 +35,7 @@ I'm a seasoned Technology Strategist with a passion for leveraging technology to
 
 #### 🌐 Connect with Me
 
-- [LinkedIn]([#](https://www.linkedin.com/in/saad-saleh/))
+- [LinkedIn](https://www.linkedin.com/in/saad-saleh/)
 - [Email](mailto:saadsaleh88@gmail.com)
 - [GitHub](#) (You're here!)
 
