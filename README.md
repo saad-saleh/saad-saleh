@@ -22,10 +22,6 @@ I'm a seasoned Technology Strategist with a passion for leveraging technology to
 ![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a)
 
-#### 📈 GitHub Stats
-
-![Saad's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourGitHubUsername&show_icons=true&theme=tokyonight)
-
 #### 📈 Projects
 
 - **Diabetic Retinopathy Early Detection**: Led the tech team in a project using AI for early detection, resulting in a successful nationwide launch.
@@ -39,7 +35,7 @@ I'm a seasoned Technology Strategist with a passion for leveraging technology to
 
 #### 🌐 Connect with Me
 
-- [LinkedIn](#)
+- [LinkedIn]([#](https://www.linkedin.com/in/saad-saleh/))
 - [Email](mailto:saadsaleh88@gmail.com)
 - [GitHub](#) (You're here!)
 
